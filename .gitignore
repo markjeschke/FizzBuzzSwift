@@ -1,0 +1,8 @@
+# Xcode
+
+## Various settings
+.DS_Store
+
+## Playgrounds
+timeline.xctimeline
+playground.xcworkspace
